@@ -1,9 +1,9 @@
 from dataclasses import dataclass
 from copy import deepcopy
 
-from prtc.base.tick_timer import TickTimer
-from prtc.neteq.underrun_optimizer import UnderRunOptimizer
-from prtc.neteq.reorder_optimizer import ReorderOptimizer
+from pirtc.base.tick_timer import TickTimer
+from pirtc.neteq.underrun_optimizer import UnderRunOptimizer
+from pirtc.neteq.reorder_optimizer import ReorderOptimizer
 
 
 START_DELAY_MS = 80

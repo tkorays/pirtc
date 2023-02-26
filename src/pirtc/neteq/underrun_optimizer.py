@@ -1,5 +1,5 @@
-from prtc.base.tick_timer import TickTimer, StopWatch
-from prtc.neteq.histogram import Histogram
+from pirtc.base.tick_timer import TickTimer, StopWatch
+from pirtc.neteq.histogram import Histogram
 
 DELAY_BUCKETS = 100
 BUCKET_SIZE_MS = 20

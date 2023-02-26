@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from prtc.base.number_unwrapper import NumberUnwrapper
+from pirtc.base.number_unwrapper import NumberUnwrapper
 
 
 @dataclass

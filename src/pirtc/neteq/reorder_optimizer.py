@@ -1,4 +1,4 @@
-from prtc.neteq.histogram import Histogram
+from pirtc.neteq.histogram import Histogram
 
 DELAY_BUCKETS = 100
 BUCKET_SIZE_MS = 20
